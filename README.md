@@ -41,12 +41,8 @@
 - Paste the token when asked and press enter
 - Follow the instructions in the CLI and you're done!
 
-## 📹 Video tutorial
 
-https://user-images.githubusercontent.com/49127376/210598199-48529c34-d783-4d6c-bb56-5bfb7a1a8219.mp4
 
-> [!NOTE]
-> The bot token shown in the video has already been removed so don't try to use it.
 
 ## ⁉️ Issues
 
